@@ -1,0 +1,6 @@
+C:\Users\englert\source\repos\Iskola\bin\Debug\Iskola.exe.config
+C:\Users\englert\source\repos\Iskola\bin\Debug\Iskola.exe
+C:\Users\englert\source\repos\Iskola\bin\Debug\Iskola.pdb
+C:\Users\englert\source\repos\Iskola\obj\Debug\Iskola.csprojAssemblyReference.cache
+C:\Users\englert\source\repos\Iskola\obj\Debug\Iskola.exe
+C:\Users\englert\source\repos\Iskola\obj\Debug\Iskola.pdb
